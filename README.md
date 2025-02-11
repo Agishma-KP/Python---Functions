@@ -8,8 +8,8 @@ This project demonstrates the use of various Python functions, including built-i
 - Using default parameter values in functions.
 
 ## Files Included
-- `functions.py` → Contains all the required Python functions and explanations as comments.
-
+- `Functions.py` → Contains all the required Python functions and explanations as comments.
+- Function-output.png → Contains the output screenshot of the Python code in the functions.py file.
 ## How to Run the Code
 1. Ensure you have Python installed on your system (Python 3.x recommended).
 2. Open a terminal or command prompt in the project directory.
